@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(255, 150, 51)
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    text-align: justify;
+}
+article{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+#Footer{
+    width: 100%;
+    height: 15xp;
+    text-align: center;
+    background-color: white;
+}
+#Re{
+    text-align: center;
+    margin-top: 50px;
+}
