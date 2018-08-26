@@ -27,3 +27,9 @@ img{
     text-align: center;
     margin-top: 50px;
 }
+
+table{
+    border: 1px black solid;
+background: white;
+align-items: center;
+}
